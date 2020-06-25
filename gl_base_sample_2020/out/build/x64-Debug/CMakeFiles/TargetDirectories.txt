@@ -1,0 +1,3 @@
+C:/Users/Dasha/Desktop/6 семестр/gl_base_sample_2020/out/build/x64-Debug/CMakeFiles/gl_base_sample_2020.dir
+C:/Users/Dasha/Desktop/6 семестр/gl_base_sample_2020/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Dasha/Desktop/6 семестр/gl_base_sample_2020/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
